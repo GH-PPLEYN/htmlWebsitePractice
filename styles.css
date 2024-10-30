@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat=swap');
+
+h1 {
+  text-decoration: underline;
+  color: rgb(32, 32, 38);
+}
+
+body {
+  background-color: rgb(154, 164, 185);
+  color: rgb(rgb(96, 102, 116), green, blue);
+  font-family: "Tiny5&display";
+}
+
+.Title {
+  width: 100vw;
+  margin-top: 50px;
+  margin-bottom: 150px;
+  <!-- display: flex; -->
+  <!-- flex-direction: columnn; -->
+  align-items: center;
+}
+
+image {
+  width: 100vw;
+  margin-top: 50px;
+  margin-bottom: 150px;
+  <!-- display: flex; -->
+  <!-- flex-direction: columnn; -->
+  align-items: center;
+}
